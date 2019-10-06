@@ -38,3 +38,11 @@ body
 {
     background-color: #5120a8;
 }
+.reserve_form
+{
+    padding: 20px;
+}
+.radio-inline input
+{
+    margin-right: 5px;
+}
